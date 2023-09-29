@@ -1,0 +1,39 @@
+.headerClass {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid gray;
+}
+
+.formulaire {
+    display: inline-block;
+	vertical-align: top;
+	width: 90%;
+	height: auto;
+	padding: 20px 30px;
+	margin: 20px 5%;
+	box-sizing: border-box;
+	border: 1px solid;
+}
+
+.lelogo{
+  width:50%;
+  height:50%;
+}
+
+.signIn input{
+    background-color: rgb(119, 0, 255);
+    color: #fff;
+}
+
+.Rechercher input{
+    background-color: rgb(60, 0, 255);
+    color:#fff;
+}
+
+.footerClass {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid gray;
+}
