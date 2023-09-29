@@ -8,11 +8,13 @@ import './style.css';
 
 function App() {
   return (
-    <React.Fragment className="Main">
-      <Navbar />
-      <Header/>
-      <Container/>
-      <Footer/>
+    <React.Fragment >
+      <div className="Main">
+        <Navbar />
+        <Header />
+        <Container />
+        <Footer />
+      </div>
     </React.Fragment>
   );
 }
